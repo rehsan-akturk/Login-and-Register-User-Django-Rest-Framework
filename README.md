@@ -1,10 +1,10 @@
 # User-Login-and-Register-User-Django-Rest-Framework
 
-$ sudo apt-get update && sudo apt-get -y upgrade
+sudo apt-get update && sudo apt-get -y upgrade
 
 install python3
 
-$ sudo apt-get install python3
+sudo apt-get install python3
 
 
 For virtualenv to install all files in the requirements.txt file.
