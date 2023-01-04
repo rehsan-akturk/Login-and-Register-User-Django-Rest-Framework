@@ -11,9 +11,9 @@ For virtualenv to install all files in the requirements.txt file.
 cd to the directory where requirements.txt is located
 activate your virtualenv
 
-# source env/bin/activate
+source env/bin/activate
 
-# pip install -r requirements.txt 
+pip install -r requirements.txt 
 
 python manage.py migrate
 
